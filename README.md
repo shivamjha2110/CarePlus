@@ -107,12 +107,8 @@ npm run dev
 The app will open at http://localhost:5173.
 
 🤝 Contributing
-Contributions are welcome! If you'd like to improve CarePulse, please follow these steps:
-Open a Pull Request.
-
+Contributions are welcome!
 📞 Contact
 If you have any questions or suggestions, feel free to reach out:
+gmail: jha.shivam0024@gmail.com
 
-GitHub: shivamjha2110
-
-<p align="center"> Made with ❤️ in India by CarePulse Team </p>
