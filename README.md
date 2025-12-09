@@ -1,4 +1,4 @@
-# 🏥 CarePulse - Modern Doctor Appointment & Management System
+# CarePulse - Modern Doctor Appointment & Management System
 
 ![CarePulse Banner](https://github.com/shivamjha2110/CarePlus/blob/carePlus_frontend/Project_Demo_Image/home%20page.png?raw=true)
 
